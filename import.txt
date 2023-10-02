@@ -1,0 +1,13 @@
+  resource "aws_instance" "MiServidorWeb" {
+    ami                                  = "ami-03a6eaae9938c858c"
+    instance_type                        = "t2.micro"
+    key_name                             = data.aws_key_pair.clave.key_name
+    subnet_id                            = aws_subnet.public_subnet.id
+    tags                                 = {
+        "Name" = "MiServidor"
+    }
+    vpc_security_group_ids               = [
+        aws_security_group.sg_instancia_publica.id
+    ]
+  
+}

@@ -1,0 +1,10 @@
+La instancia ha sido creada con la ip publica: 3.84.157.23
+La instancia 3.84.157.23 ha sido destruida
+La instancia ha sido creada con la ip publica: 52.90.122.2
+La instancia 52.90.122.2 ha sido destruida
+La instancia ha sido creada con la ip publica: 34.201.68.212
+La instancia 34.201.68.212 ha sido destruida
+La instancia ha sido creada con la ip publica: 35.172.141.127
+La instancia 35.172.141.127 ha sido destruida
+La instancia ha sido creada con la ip publica: 3.94.7.43
+La instancia ha sido creada con la ip publica: 3.80.185.170
